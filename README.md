@@ -3,7 +3,7 @@ Gijeli Docker Server
 ## Repositories
 
 1. [Docker Repo.](https://registry.hub.docker.com/u/praqma/gijeli/)
-2. [GitHub repo.](https://github.com/Praqma/docker-gijeli.git)
+2. [GitHub Repo.](https://github.com/Praqma/docker-gijeli.git)
 
 ## Docker Image
 
@@ -14,7 +14,7 @@ visit our jenkins page for this job can be [here](http://code.praqma.net/ci/view
 
 ## Usage
 
-You can render your Jekyll website from  <site-source>  by using the following command:
+You can render your Jekyll website from [\<site-source>]() by using the following command:
 
 ```
 docker run --rm -v <site-source>:/data -p <port>:4000 praqma/gijeli:<version-namber> serve --watch --force_polling -H 0.0.0.0
