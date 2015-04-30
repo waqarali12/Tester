@@ -3,13 +3,13 @@ Gijeli Docker Server
 ## Repositories
 
 1. [GitHub Reo....]
-2. [https://registry.hub.docker.com/u/praqma/gijeli/]
+2. [https://registry.hub.docker.com/u/praqma/gijeli/]()
 
 ## Docker Image
 
 Contents of this repo. are used as context for building docker image of Praqma's gijeli server.
 Each change committed to this repo. triggers an automated build in jenkins from where every successful build pushes gijeli server image to Praqma's docker repo. 
-Praqma's jenkins page for this job can be visited [here](http://code.praqma.net/ci/view/GiJeLi/job/GiJeLi%20Docker%20Server/).
+Praqma's jenkins page for this job can be visited [here](http://code.praqma.net/ci/view/GiJeLi/job/GiJeLi%20Docker%20Server/)
 
 
 ## Usage
@@ -23,7 +23,7 @@ docker run --rm -v <site-source>:/data -p <port>:4000 praqma/gijeli:<version-nam
 
 Available is a test script for building and execution the server.
 
-The \<site-source> is the directory on the Docker host with the source for the site. The site can be view as html on http://\<host-ip>:\<port>
+The [\<site-source>]() is the directory on the Docker host with the source for the site. The site can be view as html on [http://\<host-ip>:\<port>]()
 
 
 ## Support 
