@@ -3,7 +3,7 @@ Gijeli Docker Server
 ## Repositories
 
 1. [GitHub Reo....]
-2. [https://registry.hub.docker.com/u/praqma/gijeli/]()
+2. (https://registry.hub.docker.com/u/praqma/gijeli/)
 
 ## Docker Image
 
