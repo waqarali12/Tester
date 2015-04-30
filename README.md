@@ -28,6 +28,6 @@ The [\<site-source>]() is the directory on the Docker host with the source for t
 
 ## Support 
 
-You are invited to seek support or put a request for new features by e-mailing our support team at [support@praqma.net]. 
+You are invited to seek support or put a request for new features by e-mailing our support team at [support@praqma.net]() 
 
 _Note:_ Please, mention **Praqma/gijeli** in your subject while mailing to our support team
