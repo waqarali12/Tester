@@ -14,7 +14,7 @@ visit our jenkins page for this job can be [here](http://code.praqma.net/ci/view
 
 ## Usage
 
-You can render your Jekyll website from [<site-source>] by using the following command:
+You can render your Jekyll website from [ <site-source> ] by using the following command:
 
 ```
 docker run --rm -v <site-source>:/data -p <port>:4000 praqma/gijeli:<version-namber> serve --watch --force_polling -H 0.0.0.0
