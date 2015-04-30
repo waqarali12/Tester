@@ -23,7 +23,7 @@ docker run --rm -v <site-source>:/data -p <port>:4000 praqma/gijeli:<version-nam
 
 Available is a test script for building and executing jekyll server image.
 
-The \<site-source> is the directory on the Docker host with the source for the site. The site can be view as html on http://\<host-ip>:\<port>
+The [\<site-source>] is the directory on the Docker host with the source for the site. The site can be view as html on http://\<host-ip>:\<port>
 
 ## Support 
 
